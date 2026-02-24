@@ -1,0 +1,17 @@
+# Cursor Rules — ABCELDER Telegram Bot Test
+
+## Overview
+
+Test/prototype repo for ABCELDER Telegram bot.
+
+## Workflow
+
+1. **Explore** existing code before changes
+2. **Plan** if non-trivial — iterate until solid
+3. **Implement it all** — do not stop mid-task
+
+## Rules
+
+- Conventional commits: `feat:`, `fix:`, `docs:`, `chore:`
+- No direct push to `main`
+- Never hardcode bot tokens or secrets — use `.env`
